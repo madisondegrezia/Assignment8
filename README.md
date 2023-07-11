@@ -32,7 +32,7 @@ Create a Book Inventory Management API using Node.js, Express.js, and PostgreSQL
   * Verify that the API endpoints are correctly interacting with the PostgreSQL database and returning the expected results.
 
 ## Postman
-Link to Postman Collection:
+Link to Postman Collection: https://www.postman.com/mdegrezia/workspace/book-inventory-api/collection/28381226-b46c113f-4f28-4df2-95e5-6de0edb12c25?action=share&creator=28381226
 
 ## Screenshots
 <img src="https://github.com/madisondegrezia/Assignment8/assets/89614960/970388ba-cf1c-460d-b991-572375703c02" width=60% height=60%>
