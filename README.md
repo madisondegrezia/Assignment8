@@ -32,5 +32,36 @@ Create a Book Inventory Management API using Node.js, Express.js, and PostgreSQL
   * Verify that the API endpoints are correctly interacting with the PostgreSQL database and returning the expected results.
 
 ## Postman
-Link to Postman Collection: 
+Link to Postman Collection:
+
+## Screenshots
+<img src="https://github.com/madisondegrezia/Assignment8/assets/89614960/970388ba-cf1c-460d-b991-572375703c02" width=60% height=60%>
+
+The above image shows the rows returned for the books table.
+
+<img src="https://github.com/madisondegrezia/Assignment8/assets/89614960/d8b50a48-afad-41ba-971c-539c8b99a0bb" width=60% height=60%>
+
+The above image shows the GET request to retrieve all books in the database.
+
+<img src="https://github.com/madisondegrezia/Assignment8/assets/89614960/186d6bb3-a8be-472d-bf79-f4fa43830223" width=60% height=60%>
+
+The above image shows the GET request to retrieve a specific book by id in the database.
+
+<img src="https://github.com/madisondegrezia/Assignment8/assets/89614960/ee9138ef-4568-4dbe-8bb6-b6445db7a477" width=60% height=60%>
+
+The above image shows the POST request to add a new book to the database.
+
+<img src="https://github.com/madisondegrezia/Assignment8/assets/89614960/0ca48897-5eed-4bb8-b7e6-912de5e69aeb" width=60% height=60%>
+
+The above image shows the PATCH request to update a book by ID in the database.
+
+<img src="https://github.com/madisondegrezia/Assignment8/assets/89614960/abff870a-8477-4606-b518-eec1aa015802" width=60% height=60%>
+
+The above image shows the DELETE request to delete a book by ID from the database.
+
+
+
+
+
+
 
